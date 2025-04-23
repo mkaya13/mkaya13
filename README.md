@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert Kaya</h1>
-<h3 align="center">A passionate Full-stack Blockchain Developer from Türkiye</h3>
+<h3 align="center">A passionate Full-stack Blockchain Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkaya13&label=Profile%20views&color=0e75b6&style=flat" alt="mkaya13" /> </p>
 
