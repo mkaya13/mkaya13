@@ -9,7 +9,7 @@
 
 - 👨‍💻 My portfolio [https://mkaya13.github.io/portfolio.github.io/](https://mkaya13.github.io/portfolio.github.io/)
 
-- 💬 Ask me about **Solidity, JavaScript, Web3, React, Python, SQL, ML**
+- 💬 Ask me about **Solidity, Rust, Soroban, JavaScript, Web3, React, Python, SQL, ML**
 
 - ⚡ Fun fact **I am a former e-sport player and publisher**
 
